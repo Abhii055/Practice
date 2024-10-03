@@ -1,0 +1,108 @@
+----------------------------------------------------------------------------------------------------------------------------------
+My name is Abhinav, and I am originally from Bhopal, where I completed my schooling at Mt. Carmel School. I pursued my Bachelor's degree in Computer Applications from BSSS College. My professional journey began with AlignTogether, where I was selected as a Business Analyst. This role has been very crucial in developing my skills in LSQ CRM, along with SEO optimization, testing, and marketing.
+
+During my period  at AlignTogether, I gained extensive experience in various domains:
+
+ if i may i would love to give a brief explanation on my previous Experience:
+Testing:
+
+Automation Testing: create  different flow using Selenium and TestNG.
+Unit testing: Creating test case scenarios and documenting them in Excel sheets.
+Functional testing.
+UI testing.
+
+SEO:
+
+Marketing:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LSQ CRM:
+-I have implemented and Managed order forms, used Rocketlane to track implementation of different project across industries such as healthcare, real estate, EdTech, and BFSI.
+in my leadsquared journey i have implemented 8-10 accounts successfully from scratch to final handover.
+-Conducted Kick-off PPTs and requirement gathering.
+-Prepared and filled DGS and BRD documents.
+- i have  experience in creating lead flow using Figma and Draw.io.
+
+~~~~~than come to implementation
+-Customized desktop and mobile screens as per the business needs and integrated connectors like telephony(ozonetell, mcube, exotel) and email sync.
+and one the implementation in done than.
+-Led Show and Tell sessions, and providing admin and user training and if permission template is configured for marketing user than we'll go with marketing traing as well.
+-Successfully managed go-live processes and handed over projects to CSM with thorough KT sessions.
+
+
+Among my significant achievements are two major projects: Luxor Writing Instruments and Kings Learning, which have further solidified my expertise in business analysis and project management.
+
+this is all about my journey in AlignTogether as a successful BA.
+
++++  To enhance my technical proficiency, I pursued an MCA, equipping myself with skills in JSON, XML, SQL, with them i have a good knowledge of  technical and non technical jargons.
+
+lets come to my strengths 
+
+I consider my IT skills, work ethic, and analytical capabilities as my core strengths. However, I acknowledge that I tend to multitask excessively and sometimes hesitate to seek help when needed.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+USER STORY
+A user story is the smallest unit of work. Instead of focusing on what the system should do, the user story describes the benefit to the end user and what they want from your product. It does not describe a product feature but defines an end goal that the user wants to achieve when using the software. User stories are written in plain language that’s easy for everyone to understand.
+
+A good user story should be easy to understand, independent, negotiable, estimable, and testable.
+
+As a [type of user or role], I want to [end goal] so that I [do this].
+
+
+
+
+
+
+
+
+
+
+Dear [Hiring Manager's Name],
+
+I am writing to express my interest in the Business Analyst position at [Company's Name], as advertised. With a robust background in business analysis, a solid understanding of IT skills including Java, JavaScript, and SQL, and a proven track record of successful project execution, I am confident in my ability to contribute effectively to your team.
+
+In my previous role at AlignTogether Solutions as a Business Analyst and CRM Consultant, I was responsible for understanding customer ecosystems and devising optimal implementation strategies. I successfully led multiple implementations, ensuring timely project completion and seamless integration with customer workflows. My role also involved identifying automation opportunities and collaborating with sales and customer support teams to address customizations and enhancements.
+
+
+
+
+Hi Harsha, 
+
+I hope this message finds you well. I recently came across the exciting opportunity for a Customer Success Intern at Leadsquared and I am very interested in applying for this position.
+
+With my background in Business analyst, I believe I am well-equipped to contribute effectively to your team. I am eager to bring my skills and enthusiasm to support your customers' success.
+
+I would love the opportunity to discuss how my background, skills, and passions align with the goals of your team. Could we possibly arrange a time to talk about the role and how I can contribute to Leadsquared? 
+
+Thank you for considering my application. I look forward to the possibility of working with you. 
+
+Best regards,
+Abhinav Dwivedi
+
+----------------------------------------
+9920876968 - jay 
+
+
+My understanding of a Customer Success intern's main responsibilities includes working closely with client to understand their processes and business challenges in order to create business requirements and project plans. i know there are number of accounts handled by a CSM so handling key accounts and issues based on their severity level within a specific time frame is necessary. A CSM also collaborates with various internal teams to gain a brief understanding of the client and project, ensuring a holistic view of all aspects. Furthermore, CSM help clients by giving training on new features and functionalities to maximize their use of the product or service and it is very essential to maintaining a healthy relationship and ensuring client satisfaction.
+
+and one more responsibility is to prevent the accounts from churning 
+
+When a client is not satisfied, the chances of the account being put in a frozen stage or even churning  means that the client no longer wants to continue with LeadSquared. This situation arises when a client feels helpless and thinks that after go-live there will be no one to help and train them. Therefore, the CSM is responsible for preventing accounts from churning, and ensure they are fully supported throughout their journey.
+
+To keep an account in a running state and to keep the client happy, we need to maintain a healthy relationship with the client. This includes taking regular follow-ups to address any issues or problems they may face of if they want help in some particular and want to know more about our new connectors, and we can  suggest  them as per there business cases with new connectors to grow their business and LSQ business as well. and providing training on new features and functionalities of the product so that the client and their team can utilize it to the fullest extent. 
+
+SO i think these are some main pointers which makes business healthy and creates a good culture.
+///////////////////////////////////////////
+
+Why  i wanted to join US shift?
+
+when we learn something we use to create a  circle around us that i can not change my path from now
+
+	Working in a US shift - offers a unique opportunity to gain experience and develop skills in a global context,  so what i meant by  this is i worked with a client who's vendor is from Europe (FIVE9 its a telephony vendor) I worked with them and i really got impressed that how they good in entrepreneurship rather than a technical person and i think  which is crucial for my career growth.
+
+I believe working with US clients and colleagues will significantly grow my understanding of international business practices i think which again very necessary for someone's growth.
+
+
+--------------------------------------------------------------------------------------------------------------------
+7987333442
+9826583887
+	

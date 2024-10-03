@@ -1,0 +1,22 @@
+Object data type in JS?Syntax?
+Unique features of key in object type?
+Hashing and hosting in js?
+Arrow function in js? Syntax? 
+function clouser? where we declare clouser?
+what if i want to pass funtion in arguments?
+Let, Var ,Const difference?
+is js support polyorshism?
+js is client side  or server side programming?
+syntax of object creation in js?
+Promises and its state? syntax?
+Setinterval function in js?
+Diff between map and set datatype?
+what is spread operator?
+what  is template litreals?
+
+
+
+
+
+
+
